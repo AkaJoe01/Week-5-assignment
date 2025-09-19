@@ -1,0 +1,42 @@
+body{
+    padding: 10px;
+    margin: 0;
+}
+
+.main{
+   align-items: center;
+   justify-content: center;
+   justify-self: center;
+   /* background-color: red; */
+}
+
+.first_name{
+    padding: 10px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.last_name{
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.email{
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 33px;
+}
+
+.button{
+    padding: 10px;
+    font-weight: 900;
+    margin-left: 125px;
+    margin-top: 10px;
+    background-color: green;
+}
+
+.password{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
